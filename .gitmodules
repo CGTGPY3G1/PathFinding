@@ -1,0 +1,3 @@
+[submodule "ext/SFML"]
+	path = ext/SFML
+	url = ../../SFML/SFML.git
